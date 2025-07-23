@@ -7,3 +7,8 @@ The differences for themed park storytelling from other forms:
 * Guests can have a role in the story.
 
 ---
+
+Theme determines what the story is about. Every decision made has to follow the meaning of the theme.
+
+---
+
