@@ -12,3 +12,10 @@ Theme determines what the story is about. Every decision made has to follow the 
 
 ---
 
+Types of graphics:
+
+* Ghost Graphics - Part of the set design that puts the guests into the history ambience;
+* Story Graphics - Features that directly tell guests about what's going on in the story (establishment names, posters);
+* Operational Graphics - Directional signage (signs, entrance, direction pointers).
+
+---
