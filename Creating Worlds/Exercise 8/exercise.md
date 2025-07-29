@@ -4,7 +4,7 @@
 
 Throughout this lesson I am always picturing water to be a predominant element in Ferrallia. Even having areas that are more concentrated by it, the disposal of water chains troughout the city would cause humid winds.
 
-The sound of a wind can indicate the direction of the sea. So a sound like the one portrayed on `soundscape.mp3` would maybe appear in many parts of Ferrallia, especially on Cool Town.
+The sound of a wind can indicate the direction of the sea. So a sound like the one portrayed on `soundscape.wav` would maybe appear in many parts of Ferrallia, especially on Cool Town.
 
 ## Music
 
