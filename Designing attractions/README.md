@@ -25,3 +25,6 @@ Beat Sheet/Beat Board/Storyboard - scene by scene breakdown of a story
 
 ---
 
+Creative Intent - the way the motion system has to work so that the story gets able to be told.
+
+---
