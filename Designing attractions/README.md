@@ -28,3 +28,6 @@ Beat Sheet/Beat Board/Storyboard - scene by scene breakdown of a story
 Creative Intent - the way the motion system has to work so that the story gets able to be told.
 
 ---
+
+Capacity = Number of people per hour = Vehicle Capacity (number of people per vehicle) X Dispatch Interval (number of vehicles per hour).
+
